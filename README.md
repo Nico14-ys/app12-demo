@@ -9,6 +9,10 @@
 
   <h1 align="center">12App (Ongoing project)</h1>
 
+  <br/>
+
+  <h2 align="center">Self written code are mostly in app12-lib.</h2>
+
   <h4 align="center">
     An awesome app to help your revision for HKDSE Chinese Paper 1 Part A!
   </h4>
