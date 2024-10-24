@@ -11,7 +11,7 @@
 
   <br/>
 
-  <h2 align="center">Self written code are mostly in app12-lib.</h2>
+  <h2 align="center">Self written codes are mostly in app12-lib.</h2>
 
   <h4 align="center">
     An awesome app to help your revision for HKDSE Chinese Paper 1 Part A!
